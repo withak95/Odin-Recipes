@@ -1,2 +1,0 @@
-# Odin-Recipes
-Hello, this project is to get more practice with coding using HTML and creating webpages. So far I have gotten better at navigating terminal or the command line and linking it with my text editor. I learned the basics of HTML and how to set up a boilerplate and now I am practicing putting links and images on my webpages.
